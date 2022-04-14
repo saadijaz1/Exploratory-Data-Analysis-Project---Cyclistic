@@ -28,7 +28,7 @@ One row was removed because the bike was gone for 22 days.
 3. Run promotional campaigns during the summer months.
 ## Data Vizualizations
 The compelete vizualizations can be viewed on the Tableau Public website using the link below
-[a link](https://public.tableau.com/app/profile/saad.ijaz2421/viz/CyclisticCaseStudyGoogleProject/UsageDashboard)
-![This is an image](/assets/images/cyclistic.png)
+[https://public.tableau.com/app/profile/saad.ijaz2421/viz/CyclisticCaseStudyGoogleProject/UsageDashboard]
+![/assets/images/cyclistic.png]
 ## Interesting Facts
 This was the first time I realized the limitations of spreadsheet programs. Excel only supports 1,048,576 rows whereas Google Sheets supports only 5 million cells. Initially I wanted to have all the data on one sheet but it wasn't possible so I kept the monthly data on separate tabs.  
