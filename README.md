@@ -7,7 +7,7 @@ The data was provided in csv format. Microsoft Excel was used to clean and analy
 After perusing the data, the Lats and Longs were removed as they were not required for the analysis.
 Formatted the data to make it more presentable and easier to see
   - Fixed column widths
-  - Made headings bold
+  - Made headings bold<br/>
 Quite a few Starting and Ending Station values were missing. Those columns were removed along with the station id column as they weren't required for the analysis.
 Ride id column was removed.
 Moved all data to one file with each month's data in individual tabs.
